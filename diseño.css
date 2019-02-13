@@ -1,0 +1,10 @@
+ li a {
+    display: block;
+    width: 100px;
+    height: 20px;
+    text-decoration: none;
+    text-align: center;
+    color: #FFF;
+    background-color: #ff9d7e;
+    border-left: 10px solid #ff4000;
+  }
